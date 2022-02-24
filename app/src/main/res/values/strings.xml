@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pifagor</string>
+    <string name="title">Вычислить (С)</string>
+    <string name="tvR">Результат:&#160;</string>
+    <string name="input_a">Введите значение (А)</string>
+    <string name="input_b">Введите значение (B)</string>
+    <string name="result">Результат</string>
+</resources>
